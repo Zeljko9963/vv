@@ -3,14 +3,11 @@
   justify-content: space-between;
   align-items: center;
   background-color: #fdf2e9;
+  padding: 0 2rem;
 }
 .head img {
   width: 11.5%;
-  height: 6%;
-  margin-left: 3%;
   margin-top: 2%;
-  position: relative;
-  transition: 0.6s;
 }
 .head .ul {
   position: relative;
